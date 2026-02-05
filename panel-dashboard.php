@@ -37,8 +37,7 @@
         .custom-table th, .custom-table td { padding: 1rem 1.5rem; text-align: left; border-bottom: 1px solid var(--border-color); }
         .custom-table th { background: #f8fafc; font-weight: 600; color: var(--text-muted); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.5px; }
         .custom-table tr:last-child td { border-bottom: none; }
-        .btn-action { background: var(--primary-color); color: #fff; border: none; padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; font-size: 0.9rem; transition: background 0.2s; }
-        .btn-action:hover { background: var(--primary-hover); }
+        .custom-table tr:last-child td { border-bottom: none; }
 
         /* Modal Styles (Moved to global css/style.css) */
         
